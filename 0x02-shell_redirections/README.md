@@ -1,1 +1,1 @@
-This script prints 'Hello, World'
+0x02
